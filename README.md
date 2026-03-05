@@ -6,7 +6,7 @@
 
 ## English
 
-This fork adds **multi-language support (i18n)** to the original [AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext) project.
+This fork adds **multi-language support (i18n)** to the original [AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext) project.
 
 ### 🌍 Supported Languages
 
@@ -66,7 +66,7 @@ All original features are preserved:
 - ✅ Token validation
 - ✅ Kiro IDE synchronization
 
-For detailed usage, see the [original documentation](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext).
+For detailed usage, see the [original documentation](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext).
 
 ### 🤝 Contributing
 
@@ -80,7 +80,7 @@ MIT License - Same as the original project
 
 ## 中文
 
-此分支为原始 [AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext) 项目添加了**多语言支持 (i18n)**。
+此分支为原始 [AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext) 项目添加了**多语言支持 (i18n)**。
 
 ### 🌍 支持的语言
 
@@ -140,7 +140,7 @@ cd AWS-BuildID-Auto-For-Ext
 - ✅ Token 验证
 - ✅ Kiro IDE 同步
 
-详细使用方法请参见[原始文档](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext)。
+详细使用方法请参见[原始文档](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext)。
 
 ### 🤝 贡献
 
@@ -154,7 +154,7 @@ MIT License - 与原项目相同
 
 ## Türkçe
 
-Bu fork, orijinal [AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext) projesine **çok dilli destek (i18n)** ekler.
+Bu fork, orijinal [AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext) projesine **çok dilli destek (i18n)** ekler.
 
 ### 🌍 Desteklenen Diller
 
@@ -214,7 +214,7 @@ Tüm orijinal özellikler korunmuştur:
 - ✅ Token doğrulama
 - ✅ Kiro IDE senkronizasyonu
 
-Detaylı kullanım için [orijinal dokümantasyona](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext) bakın.
+Detaylı kullanım için [orijinal dokümantasyona](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext) bakın.
 
 ### 🤝 Katkıda Bulunma
 
@@ -272,4 +272,4 @@ const text = i18n('newKey');
 
 **Made with ❤️ by the community**
 
-Original project: [hkxiaoyao/AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext)
+Original project: [Specia1z/AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext)

@@ -1,6 +1,6 @@
 # AWS BuildID Otomatik Kayıt - Çok Dilli Destek
 
-Bu fork, orijinal [AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext) projesine **çok dilli destek (i18n)** ekler.
+Bu fork, orijinal [AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext) projesine **çok dilli destek (i18n)** ekler.
 
 ## 🌍 Desteklenen Diller
 
@@ -60,7 +60,7 @@ Tüm orijinal özellikler korunmuştur:
 - ✅ Token doğrulama
 - ✅ Kiro IDE senkronizasyonu
 
-Detaylı kullanım için [orijinal dokümantasyona](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext) bakın.
+Detaylı kullanım için [orijinal dokümantasyona](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext) bakın.
 
 ## 🛠️ Geliştirici Notları
 
@@ -114,7 +114,7 @@ MIT License - Orijinal proje ile aynı
 
 ## 🙏 Teşekkürler
 
-- Orijinal proje: [hkxiaoyao/AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext)
+- Orijinal proje: [Specia1z/AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext)
 - Chrome i18n API: [Chrome Extension i18n](https://developer.chrome.com/docs/extensions/reference/i18n/)
 
 ---

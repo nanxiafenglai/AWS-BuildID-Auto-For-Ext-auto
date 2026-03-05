@@ -1,6 +1,6 @@
 # AWS BuildID 自动注册 - 多语言支持
 
-此分支为原始 [AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext) 项目添加了**多语言支持 (i18n)**。
+此分支为原始 [AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext) 项目添加了**多语言支持 (i18n)**。
 
 ## 🌍 支持的语言
 
@@ -60,7 +60,7 @@ cd AWS-BuildID-Auto-For-Ext
 - ✅ Token 验证
 - ✅ Kiro IDE 同步
 
-详细使用方法请参见[原始文档](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext)。
+详细使用方法请参见[原始文档](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext)。
 
 ## 🛠️ 开发者说明
 
@@ -114,7 +114,7 @@ MIT License - 与原项目相同
 
 ## 🙏 致谢
 
-- 原始项目：[hkxiaoyao/AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext)
+- 原始项目：[Specia1z/AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext)
 - Chrome i18n API：[Chrome Extension i18n](https://developer.chrome.com/docs/extensions/reference/i18n/)
 
 ---

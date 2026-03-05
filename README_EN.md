@@ -1,6 +1,6 @@
 # AWS BuildID Auto Registration - Multi-language Support
 
-This fork adds **multi-language support (i18n)** to the original [AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext) project.
+This fork adds **multi-language support (i18n)** to the original [AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext) project.
 
 ## 🌍 Supported Languages
 
@@ -60,7 +60,7 @@ All original features are preserved:
 - ✅ Token validation
 - ✅ Kiro IDE synchronization
 
-For detailed usage, see the [original documentation](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext).
+For detailed usage, see the [original documentation](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext).
 
 ## 🛠️ Developer Notes
 
@@ -114,7 +114,7 @@ MIT License - Same as the original project
 
 ## 🙏 Credits
 
-- Original project: [hkxiaoyao/AWS-BuildID-Auto-For-Ext](https://github.com/hkxiaoyao/AWS-BuildID-Auto-For-Ext)
+- Original project: [Specia1z/AWS-BuildID-Auto-For-Ext](https://github.com/Specia1z/AWS-BuildID-Auto-For-Ext)
 - Chrome i18n API: [Chrome Extension i18n](https://developer.chrome.com/docs/extensions/reference/i18n/)
 
 ---
